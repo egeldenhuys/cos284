@@ -32,4 +32,3 @@ Not as powerful as GDB but might be more reliable.
 ## Useful Links
 - [Linux System Call Table for x86 64](http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
 - [GDB Cheat Sheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
-- [Register Usage](https://docs.microsoft.com/en-au/cpp/build/register-usage)
