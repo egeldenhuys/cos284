@@ -2,7 +2,8 @@
 - Source: https://wiki.osdev.org/System_V_ABI
 
 ## General
-- The stack is 16-byte aligned just before the call instruction is called. 
+- The stack grows downwards.
+- The stack is 16-byte aligned just before the call instruction is called.
 
 ## Passing integer and address arguments to function
 - rdi (1)
